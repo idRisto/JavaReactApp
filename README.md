@@ -1,6 +1,12 @@
 # JavaReactApp
 
-MySql needs to be running. user: springuser, password: ThePassword, database name: book_db
+MySql needs to be running. Open UniController (or similarr), start MySql Server and open MySql console.
+
+create database book_db;
+
+create user 'springuser'@'%' identified by 'ThePassword';
+
+grant select, insert, delete, update on db_example.* to 'springuser'@'%';
 
 Did not have time to setup hosting for db
 
