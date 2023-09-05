@@ -1,4 +1,4 @@
 # JavaReactApp
 
 cd booklist and npm install
-then cd .. and mvn spring-boot:run
+then cd .. , mvn clean install and mvn spring-boot:run
