@@ -1,6 +1,6 @@
 # JavaReactApp
 
-MySql needs to be running. Open UniController (or similarr), start MySql Server and open MySql console.
+MySql needs to be running. Open UniController (or similar), start MySql Server and open MySql console.
 
 create database book_db;
 
