@@ -4,6 +4,6 @@ MySql needs to be running. user: springuser, password: ThePassword, database nam
 
 
 
-Run this command at root
+Run this command at project root
 
-cd booklist; npm install, npm run build, cd .., mvn clean install, mvn spring-boot:run
+cd booklist; npm install; npm run build; cd ..; mvn clean install; mvn spring-boot:run
